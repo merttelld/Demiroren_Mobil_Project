@@ -1,0 +1,11 @@
+{
+  "homePage": {
+    "userIcon": "hurriyet.mobil.android:id/actionbar_home_profile"
+  },
+  "loginPage": {
+    "loginButton": "//android.widget.TextView[@resource-id=\"hurriyet.mobil.android:id/loginTextBtn\"]",
+    "usernameField": "hurriyet.mobil.android:id/login_editText_email",
+    "passwordField": "hurriyet.mobil.android:id/login_editText_password",
+    "continueButton": "//android.widget.TextView[@resource-id=\"hurriyet.mobil.android:id/login_textView_continue\"]"
+  }
+}
